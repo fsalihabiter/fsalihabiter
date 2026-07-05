@@ -1,0 +1,18 @@
+<svg width="400" height="170" viewBox="0 0 400 170" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub Stats">
+  <rect width="400" height="170" rx="10" fill="#1e1e2e"/>
+  <text x="25" y="35" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="18" font-weight="600" fill="#6366f1">Fatıma's GitHub Stats</text>
+  <g font-family="'Segoe UI', Ubuntu, sans-serif" font-size="14" fill="#cdd6f4">
+    <circle cx="32" cy="62" r="4" fill="#f9e2af"/>
+    <text x="48" y="67">Total Stars Earned</text>
+    <text x="375" y="67" text-anchor="end" font-weight="600" fill="#61DAFB">2</text>
+    <circle cx="32" cy="89" r="4" fill="#a6e3a1"/>
+    <text x="48" y="94">Public Repositories</text>
+    <text x="375" y="94" text-anchor="end" font-weight="600" fill="#61DAFB">10</text>
+    <circle cx="32" cy="116" r="4" fill="#89b4fa"/>
+    <text x="48" y="121">Followers</text>
+    <text x="375" y="121" text-anchor="end" font-weight="600" fill="#61DAFB">3</text>
+    <circle cx="32" cy="143" r="4" fill="#f38ba8"/>
+    <text x="48" y="148">Achievements</text>
+    <text x="375" y="148" text-anchor="end" font-weight="600" fill="#61DAFB">Pull Shark · Pair Extraordinaire</text>
+  </g>
+</svg>
