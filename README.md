@@ -63,7 +63,7 @@
 
 | | |
 |---|---|
-| 🏛️ | Developed on **6 nationwide government systems** (Ministry of Trade & Ministry of Health) |
+| 🏛️ | Developed on **5 nationwide government systems** (Ministry of Trade & Ministry of Health) |
 | ⚡ | Cut query times by **40–60%** while migrating legacy modules to .NET Core + React |
 | 🎯 | Optimized complex tax-calculation stored procedures — up to **95% efficiency** |
 | 🔄 | Automated **hourly multi-source data flows** with SSIS + SQL |
@@ -73,8 +73,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fsalihabiter&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=6366f1&icon_color=61DAFB" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsalihabiter&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=6366f1" alt="Top languages"/>
+<img height="170" src="./github-stats.svg" alt="GitHub stats"/>
+<img height="170" src="./top-langs.svg" alt="Top languages"/>
 
 </div>
 
