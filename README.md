@@ -63,7 +63,7 @@
 
 | | |
 |---|---|
-| 🏛️ | Developed on **5 nationwide government systems** (Ministry of Trade & Ministry of Health) |
+| 🏛️ | Developed on **6 nationwide government systems** (Ministry of Trade & Ministry of Health) |
 | ⚡ | Cut query times by **40–60%** while migrating legacy modules to .NET Core + React |
 | 🎯 | Optimized complex tax-calculation stored procedures — up to **95% efficiency** |
 | 🔄 | Automated **hourly multi-source data flows** with SSIS + SQL |
