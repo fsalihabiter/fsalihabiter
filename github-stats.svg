@@ -7,10 +7,10 @@
     <text x="375" y="67" text-anchor="end" font-weight="600" fill="#61DAFB">2</text>
     <circle cx="32" cy="89" r="4" fill="#a6e3a1"/>
     <text x="48" y="94">Public Repositories</text>
-    <text x="375" y="94" text-anchor="end" font-weight="600" fill="#61DAFB">10</text>
+    <text x="375" y="94" text-anchor="end" font-weight="600" fill="#61DAFB">5</text>
     <circle cx="32" cy="116" r="4" fill="#89b4fa"/>
     <text x="48" y="121">Followers</text>
-    <text x="375" y="121" text-anchor="end" font-weight="600" fill="#61DAFB">3</text>
+    <text x="375" y="121" text-anchor="end" font-weight="600" fill="#61DAFB">4</text>
     <circle cx="32" cy="143" r="4" fill="#f38ba8"/>
     <text x="48" y="148">Achievements</text>
     <text x="375" y="148" text-anchor="end" font-weight="600" fill="#61DAFB">Pull Shark · Pair Extraordinaire</text>
